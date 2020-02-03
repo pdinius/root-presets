@@ -1,0 +1,23 @@
+{
+  "name": "root-presets",
+  "version": "1.0.0",
+  "description": "UI to choose factions combinations for the board game 'Root'.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdinius/root-presets.git"
+  },
+  "keywords": [
+    "root",
+    "presets"
+  ],
+  "author": "Phil Dinius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdinius/root-presets/issues"
+  },
+  "homepage": "https://github.com/pdinius/root-presets#readme"
+}
