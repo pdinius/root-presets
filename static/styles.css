@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+.half-op {
+    opacity: .3;
+    transition: opacity .3s;
+}
+
+.half-op:hover {
+    opacity: 1;
+    cursor: pointer;
+}
